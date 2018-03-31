@@ -3,7 +3,7 @@ title: Dmitry Torshin Blog
 email: dmitry.a.torshin@google.com
 description: > Home blog of a Data Satanist
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://jekyll.github.io" # the base hostname & protocol for your site
+url: "http://justm57.github.io" # the base hostname & protocol for your site
 twitter_username: gotta_get_ya
 github_username:  justm57
 
